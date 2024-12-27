@@ -6,7 +6,7 @@ O CRUD DXC √© um projeto desenvolvido com Spring Boot que implementa uma aplica√
 
 Requisitos
 
-Java 17 ou superior
+Java 11 
 
 Maven 3.8.1 ou superior
 
