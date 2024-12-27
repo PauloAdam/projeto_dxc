@@ -59,7 +59,8 @@ mvn spring-boot:run
 
 Acesse a aplicação
 
-A API estará disponível em: http://localhost:8080
+A API estará disponível em: http://localhost:8090
+senha é gerada assim que executa o codigo no console ( Using generated security password:********************************** )
 
 Estrutura do Projeto
 
